@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Developers-Corporation/MealBot.git"
+    "url": "git+https://github.com/gtg7784/MealBot.git"
   },
   "keywords": [
     "chatbot"
@@ -17,9 +17,9 @@
   "author": "TaegeonGo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Developers-Corporation/MealBot/issues"
+    "url": "https://github.com/gtg7784/MealBot/issues"
   },
-  "homepage": "https://github.com/Developers-Corporation/MealBot#readme",
+  "homepage": "https://github.com/gtg7784/MealBot#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
